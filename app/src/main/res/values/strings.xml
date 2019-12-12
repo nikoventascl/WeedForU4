@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeedForU4</string>
+    <string name="ver_lista">Ver Lista</string>
+    <string-array name="Forma">
+        <item>Fruto(cogollo) - 1gr. </item>
+        <item>Aceite - 40ml </item>
+        <item>Leche - 50ml </item>
+        <item>Crema - 128gr. </item>
+        <item>Pomada - 128gr. </item>
+        <item>Hoja - 1gr. </item>
+    </string-array>
+</resources>
